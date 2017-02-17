@@ -15,3 +15,5 @@
   - `npm install -g gulp`
   - `npm install gulp -save-dev`
   - `npm install gulp-webserver -save-dev`
+  - add `gulpfile.js`, `app/index.html`
+  - run server: `$ gulp`
